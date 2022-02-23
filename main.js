@@ -1,5 +1,5 @@
 let tab = [3,4,92,4];
-function fun(tab){
-    return tab[0];
+function fun(a){
+    return a[0];
 } 
-console.log(fun);
+console.log(fun(tab));
